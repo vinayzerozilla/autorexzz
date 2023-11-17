@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Nano Crystal 1",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  },
+  {
+    "id": 2,
+    "name": "Nano Crystal 2",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  },
+  {
+    "id": 3,
+    "name": "Nano Crystal 3",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  },
+  {
+    "id": 4,
+    "name": "Nano Crystal 4",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  },
+  {
+    "id": 5,
+    "name": "Nano Crystal 5",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  },
+  {
+    "id": 6,
+    "name": "Nano Crystal 6",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  },
+  {
+    "id": 7,
+    "name": "Nano Crystal 7",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  },
+  {
+    "id": 8,
+    "name": "Nano Crystal 8",
+    "Price_Kit": 2490,
+    "Min_Qty": 4,
+    "Total_Price": 9960
+  }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_suzuki.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_suzuki.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_mobilemyaccount.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_mobilemyaccount.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_emphomecar.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_emphomecar.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_rightangle.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_rightangle.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_audi.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_audi.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_genaratereportsdots.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_genaratereportsdots.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_hyuindai.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_hyuindai.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_deliverylocation.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_deliverylocation.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.zerozilla.app-main-35:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_sharelocationdots.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_sharelocationdots.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_bookingconfimg.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_bookingconfimg.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_emphomestock.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_emphomestock.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_vw.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_vw.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_profileuser.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_profileuser.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_serviceplaceholder.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_serviceplaceholder.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_kia.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_kia.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_mg.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_mg.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_ordconfimg.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_ordconfimg.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_orderproductsdots.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_orderproductsdots.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_locationmap.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_locationmap.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_chevrolet.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_chevrolet.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_historyplaceholder.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_historyplaceholder.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_sharelocation.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_sharelocation.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_passwordmyaccount.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_passwordmyaccount.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_flashscreenlogo.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_flashscreenlogo.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_skoda.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_skoda.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_getreports.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_getreports.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.zerozilla.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_profilelocation.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_profilelocation.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_map.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_map.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_toyota.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_toyota.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_src_assets_images_emptylocation.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/src_assets_images_emptylocation.png"
+    },
+    {
+        "merged": "com.zerozilla.app-merged_res-34:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "com.zerozilla.app-res-28:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    }
+]
