@@ -9,26 +9,26 @@
 9        android:targetSdkVersion="33" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->D:\Autorezz\android\app\src\debug\AndroidManifest.xml:5:5-77
-11-->D:\Autorezz\android\app\src\debug\AndroidManifest.xml:5:22-75
+11-->D:\Projects\autorexxz\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->D:\Projects\autorexxz\android\app\src\debug\AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:3:5-67
-12-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:3:22-64
+12-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:3:5-67
+12-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:3:22-64
 13    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-13-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:4:5-74
-13-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:4:22-71
+13-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:4:5-74
+13-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:4:22-71
 14    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-14-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:5:5-72
-14-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:5:22-69
+14-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:5:5-72
+14-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:5:22-69
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:6:5-78
-15-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:6:22-76
+15-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:6:5-78
+15-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:6:22-76
 16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 16-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:5-76
 16-->[com.facebook.flipper:flipper:0.182.0] C:\Users\Admin\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\AndroidManifest.xml:16:22-73
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-17-->[:react-native-get-location] D:\Autorezz\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
-17-->[:react-native-get-location] D:\Autorezz\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-78
+17-->[:react-native-get-location] D:\Projects\autorexxz\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+17-->[:react-native-get-location] D:\Projects\autorexxz\node_modules\react-native-get-location\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-78
 18    <uses-permission android:name="android.permission.WAKE_LOCK" />
 18-->[androidx.work:work-runtime:2.7.1] C:\Users\Admin\.gradle\caches\transforms-3\a93c68fb1d2792ca1942259f5092d83b\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
 18-->[androidx.work:work-runtime:2.7.1] C:\Users\Admin\.gradle\caches\transforms-3\a93c68fb1d2792ca1942259f5092d83b\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
@@ -66,61 +66,61 @@
 34-->[com.android.installreferrer:installreferrer:1.1.2] C:\Users\Admin\.gradle\caches\transforms-3\7159fdde894990131f3ba6437117d8d3\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:22-107
 35
 36    <application
-36-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:10:5-34:19
+36-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:10:5-34:19
 37        android:name="com.zerozilla.MainApplication"
-37-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:11:7-38
+37-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:11:7-38
 38        android:allowBackup="false"
-38-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:15:7-34
+38-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:15:7-34
 39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 39-->[androidx.core:core:1.7.0] C:\Users\Admin\.gradle\caches\transforms-3\75e4635b66fa4e4e84e71b52579837ce\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 40        android:debuggable="true"
 41        android:icon="@mipmap/ic_launcher"
-41-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:13:7-41
+41-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:13:7-41
 42        android:label="@string/app_name"
-42-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:12:7-39
+42-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:12:7-39
 43        android:roundIcon="@mipmap/ic_launcher_round"
-43-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:14:7-52
+43-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:14:7-52
 44        android:theme="@style/AppTheme"
-44-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:16:7-38
+44-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:16:7-38
 45        android:usesCleartextTraffic="true" >
-45-->D:\Autorezz\android\app\src\debug\AndroidManifest.xml:8:9-44
+45-->D:\Projects\autorexxz\android\app\src\debug\AndroidManifest.xml:8:9-44
 46        <activity
-46-->D:\Autorezz\android\app\src\debug\AndroidManifest.xml:11:9-111
+46-->D:\Projects\autorexxz\android\app\src\debug\AndroidManifest.xml:11:9-111
 47            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-47-->D:\Autorezz\android\app\src\debug\AndroidManifest.xml:11:19-83
+47-->D:\Projects\autorexxz\android\app\src\debug\AndroidManifest.xml:11:19-83
 48            android:exported="false" />
-48-->D:\Autorezz\android\app\src\debug\AndroidManifest.xml:11:84-108
+48-->D:\Projects\autorexxz\android\app\src\debug\AndroidManifest.xml:11:84-108
 49
 50        <meta-data
-50-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:17:8-20:9
+50-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:17:8-20:9
 51            android:name="com.google.android.geo.API_KEY"
-51-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:18:9-54
+51-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:18:9-54
 52            android:value="Your Google maps API Key Here" />
-52-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:19:9-54
+52-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:19:9-54
 53
 54        <activity
-54-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:21:7-32:18
+54-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:21:7-32:18
 55            android:name="com.zerozilla.MainActivity"
-55-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:22:9-37
+55-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:22:9-37
 56            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-56-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:24:9-118
+56-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:24:9-118
 57            android:exported="true"
-57-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:27:9-32
+57-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:27:9-32
 58            android:label="@string/app_name"
-58-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:23:9-41
+58-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:23:9-41
 59            android:launchMode="singleTask"
-59-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:25:9-40
+59-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:25:9-40
 60            android:windowSoftInputMode="adjustResize" >
-60-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:26:9-51
+60-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:26:9-51
 61            <intent-filter>
-61-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:28:9-31:25
+61-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:28:9-31:25
 62                <action android:name="android.intent.action.MAIN" />
-62-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:29:13-65
-62-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:29:21-62
+62-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:29:13-65
+62-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:29:21-62
 63
 64                <category android:name="android.intent.category.LAUNCHER" />
-64-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:30:13-73
-64-->D:\Autorezz\android\app\src\main\AndroidManifest.xml:30:23-70
+64-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:30:13-73
+64-->D:\Projects\autorexxz\android\app\src\main\AndroidManifest.xml:30:23-70
 65            </intent-filter>
 66        </activity>
 67
