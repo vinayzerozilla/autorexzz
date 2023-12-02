@@ -7,6 +7,7 @@ import {
   SafeAreaView,
   StyleSheet,
 } from "react-native";
+import { useSelector } from "react-redux";
 import MyStyle from "../../style/MyStyle";
 import EmptyPlaceholderComponent from "../../Components/EmptyPlaceholderComponent";
 import Button from "../../Components/Button";
@@ -29,6 +30,8 @@ const MyCart = () => {
   useEffect(() => {
     setData(products);
   });
+  const values = useSelector((state) => state.cart.items);
+  console.log("from the store", values);
   // cartitems.map((values) => { return (<Text>{values}</Text>) })
   // const ids = products.map((item) => item.id)
   // const cart = ids.filter((item) => cartitems.includes(item))
@@ -58,6 +61,7 @@ const MyCart = () => {
         const data = await AsyncStorage.getItem("cartitems");
         if (data) {
           setCartItems(JSON.parse(data));
+          console.log(data);
         } else {
           setCartItems([]);
         }
@@ -67,7 +71,7 @@ const MyCart = () => {
     };
 
     loadData();
-  }, [cartitems]);
+  }, []);
 
   const additems = () => {
     navigation.navigate("AddItems");
